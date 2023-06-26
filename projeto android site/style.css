@@ -1,0 +1,99 @@
+h1{
+  font-style: oblique;
+  color: white;
+  text-align: center;
+  
+  
+}
+header{
+    text-align: center;
+    justify:center;
+    background-color: rgba(30, 128, 0, 0.918);
+    color:cornsilk;
+    
+    }
+body{
+    background-color: rgba(74, 255, 120, 0.719);
+    
+}
+.LK1 {
+    margin: 0%;
+    color: white;
+    padding: 0px 10px;
+    text-decoration: none;
+    cursor: pointer;
+    border: 0px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    transform: scale(1);
+    transition: 0.5s;
+    cursor: pointer;
+    
+    background-color: rgba(115, 255, 0, 0.192);
+     
+}
+.LK1:hover{
+background-color: brown;
+}
+
+
+main{
+    background-color: aliceblue;
+    border-style: groove;
+    margin:0px 40px;
+    margin-top: 0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    justify:center;
+
+}
+h2{
+    text-align: center;
+    justify:center;
+    font-style: italic;
+    
+}
+.primeira-imagen{
+    margin:auto;
+    max-width: 100%;
+    
+}
+.sengunda-imagen{
+margin: auto;
+max-width: 100%;
+}
+.terceira-imagen{
+max-width: 100px;
+justify-items: center;
+    
+}
+div.video{
+    background-color: aqua;
+    position: relative;
+    padding-bottom: 50%;
+    padding: 20%;
+}
+div.video >iframe{
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 90%; 
+    height: 90%;
+
+    
+
+}
+aside {
+    background-color: rgba(128, 247, 174, 0.959);
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+}
+
+footer{
+    border-style: groove;
+    background-color:rgba(0, 128, 0, 0.63);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 70px;
+    margin:auto;
+    
+
+}
